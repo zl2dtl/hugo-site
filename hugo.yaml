@@ -13,12 +13,10 @@ params:
   homeInfoParams:
     Title: "Hi, I'm Daniel"
     Content: >
-     Welcome to my online workbench. Like my real one, it's cluttered and chaotic and never quite organized the way it should be.
-     Fourth time's the charm, right? I've done this before, twice on Blogger, once here already. They all started as "tech blogs" and ended up being places where I just wrote whatever was rattling around in my head.
-     This isn't a clean, focused blog about electronics or 3D printing or amateur radio. It's never just for one thing. Sometimes I'm here working through a project, documenting what broke and how I fixed it. Sometimes I'm writing about life stuff that doesn't have anywhere else to go. Most of the time it's both mixed together because that's how my brain works.
-     Some posts will actually be helpful, troubleshooting guides, tips that work, project notes worth keeping. Others will be me at 2am trying to work through something that's been bugging me for days. You'll get the technical failures along with the personal ones. The boring maintenance stuff along with the "holy shit this actually worked" moments.
-     No brand here. No neat categories. Just me figuring things out in public, one messy post at a time. This place will keep evolving, get messier, hopefully get better. But it stays mine. If something here helps you out, brilliant. If you just like hanging out in someone else's chaos for a bit, welcome. Make yourself at home.
-
+     Welcome to my corner of the internet. It's a bit like my workbench - cluttered, chaotic, and never quite as organised as it should be.
+     This blog should stay up for as long as I can afford to renew my domain (it's like $20 a year, contrary to what some people may say I can *definitely* afford that). 
+     You'll find a mix of everything here - project notes, troubleshooting guides, random thoughts about life, and the occasional existential crisis. Sometimes the technical stuff works, sometimes it doesn't. I write about both.
+     Head over to About Me to read more, well, about me, check out Posts for my thoughts on everything from radio repairs to life decisions, or browse Self-Hosted to see what I'm running on my computers currently.
   socialIcons:
     - name: "github"
       url: "https://github.com/zl2dtl"
@@ -37,7 +35,7 @@ params:
 menu:
   main:
     - identifier: about
-      name: About
+      name: About Me
       url: /about/
       weight: 1
 
@@ -51,15 +49,10 @@ menu:
       url: /3dprinting/
       weight: 3
 
-    - identifier: stories
-      name: Writing
-      url: /stories/
+    - identifier: selfhosted
+      name: Self Hosted Projects
+      url: /selfhosted/
       weight: 4
-
-    - identifier: jukebox
-      name: Jukebox
-      url: /jukebox/
-      weight: 5
 
 
 outputs:
