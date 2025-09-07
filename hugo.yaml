@@ -49,9 +49,9 @@ menu:
       url: /3dprinting/
       weight: 3
 
-    - identifier: selfhosted
-      name: Self Hosted Projects
-      url: /selfhosted/
+    - identifier: projects
+      name: Projects and Machines
+      url: /projects/
       weight: 4
 
 
