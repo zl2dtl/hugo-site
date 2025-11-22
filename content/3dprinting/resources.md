@@ -1,6 +1,7 @@
 ---
 title: "3D Printing Resources"
 layout: page
+date: 2025-11-15
 url: /3dprinting/resources/
 ---
 

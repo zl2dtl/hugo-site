@@ -1,4 +1,4 @@
-baseURL: "//zl2dtl.xyz"  # Change this to your domain
+baseURL: "//zl2dtl.xyz"  
 languageCode: "en"
 title: "Daniel's World"
 theme: "PaperMod"
@@ -13,10 +13,7 @@ params:
   homeInfoParams:
     Title: "Hi, I'm Daniel"
     Content: >
-     Welcome to my corner of the internet. It's a bit like my workbench - cluttered, chaotic, and never quite as organised as it should be.
-     This blog should stay up for as long as I can afford to renew my domain (it's like $20 a year, contrary to what some people may say I can *definitely* afford that). 
-     You'll find a mix of everything here - project notes, troubleshooting guides, random thoughts about life, and the occasional existential crisis. Sometimes the technical stuff works, sometimes it doesn't. I write about both.
-     Head over to About Me to read more, well, about me, check out Posts for my thoughts on everything from radio repairs to life decisions, or browse Self-Hosted to see what I'm running on my computers currently.
+     Welcome to my corner of the internet. This is my thought dump for anything that comes to my mind or catches my attention. Check out the other pages to see what I'm up to. 
   socialIcons:
     - name: "github"
       url: "https://github.com/zl2dtl"
@@ -39,9 +36,9 @@ menu:
       url: /about/
       weight: 1
 
-    - identifier: blog
-      name: Blog Posts
-      url: /posts/
+    - identifier: writing
+      name: Writings
+      url: /writing/
       weight: 2
 
     - identifier: printer
