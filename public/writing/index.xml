@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Writings on Daniel&#39;s World</title>
+    <link>//localhost:1313/writing/</link>
+    <description>Recent content in Writings on Daniel&#39;s World</description>
+    <generator>Hugo -- 0.154.5</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 22 Nov 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="//localhost:1313/writing/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Server testing</title>
+      <link>//localhost:1313/writing/automationtest/</link>
+      <pubDate>Sat, 22 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/writing/automationtest/</guid>
+      <description>&lt;p&gt;Nothing thrilling at all with this one, but if it&amp;rsquo;s visible after 5:40pm on 23/11/25 NZST then I have successfully implemented a much more automated workflow. This means I can write as much as I want, and literally push one button which runs a .bat script that pushes it to Github after prompting me only for a commit message. My server then has another script which hopefully runs every 20 minutes past the hour (3 times an hour, at :00, :20, and :40) if I wrote it correctly that should delete the old directory and automagically pull the updated copy from Github.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

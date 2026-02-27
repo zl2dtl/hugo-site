@@ -1,0 +1,268 @@
+<!DOCTYPE html>
+<html lang="en" dir="auto" data-theme="auto">
+
+<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script><meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<meta name="robots" content="noindex, nofollow">
+<title>My Projects and Machines | Daniel&#39;s World</title>
+<meta name="keywords" content="">
+<meta name="description" content="Self-Hosted Web Things
+Welcome to my little corner of the internet where I run and tinker with various self-hosted services. Instead of relying on &ldquo;the cloud&rdquo;, which is just a fancy way of saying &ldquo;someone else&rsquo;s computer&rdquo;, I prefer keeping things close to home — literally — on my Intel NUC.
+That NUC might not sound like a powerhouse (10th Gen Core i3, 16GB RAM, 256GB NVMe, running Debian 12 with no DE or WM), but it pulls its weight just fine. It currently runs:">
+<meta name="author" content="">
+<link rel="canonical" href="//localhost:1313/projects/">
+<link crossorigin="anonymous" href="/assets/css/stylesheet.da3211e5ef867bf2b75fd5a6515cfed7195c011e8ab735694e203810a827097b.css" integrity="sha256-2jIR5e&#43;Ge/K3X9WmUVz&#43;1xlcAR6KtzVpTiA4EKgnCXs=" rel="preload stylesheet" as="style">
+<link rel="icon" href="//localhost:1313/favicon.ico">
+<link rel="icon" type="image/png" sizes="16x16" href="//localhost:1313/favicon-16x16.png">
+<link rel="icon" type="image/png" sizes="32x32" href="//localhost:1313/favicon-32x32.png">
+<link rel="apple-touch-icon" href="//localhost:1313/apple-touch-icon.png">
+<link rel="mask-icon" href="//localhost:1313/safari-pinned-tab.svg">
+<meta name="theme-color" content="#2e2e33">
+<meta name="msapplication-TileColor" content="#2e2e33">
+<link rel="alternate" type="application/rss+xml" href="//localhost:1313/projects/index.xml" title="rss">
+<link rel="alternate" hreflang="en" href="//localhost:1313/projects/">
+<noscript>
+    <style>
+        #theme-toggle,
+        .top-link {
+            display: none;
+        }
+
+    </style>
+    <style>
+        @media (prefers-color-scheme: dark) {
+            :root {
+                --theme: rgb(29, 30, 32);
+                --entry: rgb(46, 46, 51);
+                --primary: rgb(218, 218, 219);
+                --secondary: rgb(155, 156, 157);
+                --tertiary: rgb(65, 66, 68);
+                --content: rgb(196, 196, 197);
+                --code-block-bg: rgb(46, 46, 51);
+                --code-bg: rgb(55, 56, 62);
+                --border: rgb(51, 51, 51);
+                color-scheme: dark;
+            }
+
+            .list {
+                background: var(--theme);
+            }
+
+            .toc {
+                background: var(--entry);
+            }
+        }
+
+        @media (prefers-color-scheme: light) {
+            .list::-webkit-scrollbar-thumb {
+                border-color: var(--code-bg);
+            }
+        }
+
+    </style>
+</noscript>
+<script>
+    if (localStorage.getItem("pref-theme") === "dark") {
+        document.querySelector("html").dataset.theme = 'dark';
+    } else if (localStorage.getItem("pref-theme") === "light") {
+       document.querySelector("html").dataset.theme = 'light';
+    } else if (window.matchMedia('(prefers-color-scheme: dark)').matches) {
+        document.querySelector("html").dataset.theme = 'dark';
+    } else {
+        document.querySelector("html").dataset.theme = 'light';
+    }
+
+</script>
+</head>
+<body class="list" id="top">
+    <header class="header">
+    <nav class="nav">
+        <div class="logo">
+            <a href="//localhost:1313/" accesskey="h" title="Daniel&#39;s World (Alt + H)">Daniel&#39;s World</a>
+            <div class="logo-switches">
+                <button id="theme-toggle" accesskey="t" title="(Alt + T)" aria-label="Toggle theme">
+                    <svg id="moon" xmlns="http://www.w3.org/2000/svg" width="24" height="18" viewBox="0 0 24 24"
+                        fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                        stroke-linejoin="round">
+                        <path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"></path>
+                    </svg>
+                    <svg id="sun" xmlns="http://www.w3.org/2000/svg" width="24" height="18" viewBox="0 0 24 24"
+                        fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                        stroke-linejoin="round">
+                        <circle cx="12" cy="12" r="5"></circle>
+                        <line x1="12" y1="1" x2="12" y2="3"></line>
+                        <line x1="12" y1="21" x2="12" y2="23"></line>
+                        <line x1="4.22" y1="4.22" x2="5.64" y2="5.64"></line>
+                        <line x1="18.36" y1="18.36" x2="19.78" y2="19.78"></line>
+                        <line x1="1" y1="12" x2="3" y2="12"></line>
+                        <line x1="21" y1="12" x2="23" y2="12"></line>
+                        <line x1="4.22" y1="19.78" x2="5.64" y2="18.36"></line>
+                        <line x1="18.36" y1="5.64" x2="19.78" y2="4.22"></line>
+                    </svg>
+                </button>
+            </div>
+        </div>
+        <ul id="menu">
+            <li>
+                <a href="//localhost:1313/about/" title="About Me">
+                    <span>About Me</span>
+                </a>
+            </li>
+            <li>
+                <a href="//localhost:1313/writing/" title="Writings">
+                    <span>Writings</span>
+                </a>
+            </li>
+            <li>
+                <a href="//localhost:1313/3dprinting/" title="3D Printing">
+                    <span>3D Printing</span>
+                </a>
+            </li>
+            <li>
+                <a href="//localhost:1313/projects/" title="Projects and Machines">
+                    <span class="active">Projects and Machines</span>
+                </a>
+            </li>
+        </ul>
+    </nav>
+</header>
+<main class="main"> 
+<header class="page-header"><div class="breadcrumbs"><a href="//localhost:1313/">Home</a></div>
+  <h1>
+    My Projects and Machines
+  </h1>
+</header>
+<div class="post-content"><h1 id="self-hosted-web-things">Self-Hosted Web Things<a hidden class="anchor" aria-hidden="true" href="#self-hosted-web-things">#</a></h1>
+<p>Welcome to my little corner of the internet where I run and tinker with various self-hosted services. Instead of relying on &ldquo;the cloud&rdquo;, which is just a fancy way of saying &ldquo;someone else&rsquo;s computer&rdquo;, I prefer keeping things close to home — literally — on my Intel NUC.</p>
+<p>That NUC might not sound like a powerhouse (10th Gen Core i3, 16GB RAM, 256GB NVMe, running Debian 12 with no DE or WM), but it pulls its weight just fine. It currently runs:</p>
+<ul>
+<li><strong><a href="https://jukebox.zl2dtl.xyz">Jukebox</a></strong> – my personal music server powered by <a href="https://www.navidrome.org/">Navidrome</a>. Think of it as Spotify, but with music I actually own. Access is private and strictly limited.</li>
+<li><strong><a href="https://eggshell.zl2dtl.xyz">EggSHELL Remote Terminal</a></strong> – my emergency root development shell for when things inevitably break while I&rsquo;m away. (No, you can&rsquo;t have access. Trust me, you don&rsquo;t want it when it&rsquo;s on fire anyway.)</li>
+<li>This very website, because why not let the server introduce itself? (Finally up and running as of 19:00, 7/09/25)</li>
+<li>And some sort of grocery/shopping list overkill inventory management thing that I am hosting for somebody from school (also i literally don&rsquo;t understand it so i don&rsquo;t think i could use it if i tried)</li>
+</ul>
+<p>I&rsquo;m always experimenting, so the list of self-hosted projects may grow (or implode) depending on my mood and uptime.</p>
+<hr>
+<h1 id="my-computers">My Computers<a hidden class="anchor" aria-hidden="true" href="#my-computers">#</a></h1>
+<p>Alongside the NUC server, I&rsquo;ve got a few machines that keep me productive, entertained, and occasionally frustrated.</p>
+<h2 id="main-pc">Main PC<a hidden class="anchor" aria-hidden="true" href="#main-pc">#</a></h2>
+<ul>
+<li><strong>CPU:</strong> Intel Core i7-4790 (4 cores, 8 threads) @ 4.00 GHz</li>
+<li><strong>GPU:</strong> NVIDIA Quadro K620 (Discrete)</li>
+<li><strong>Memory:</strong> 16 GB DDR3</li>
+<li><strong>Storage:</strong> 465 GB HDD</li>
+<li><strong>OS:</strong> Manjaro 25 (GNOME)</li>
+<li><strong>Notes:</strong> My daily driver for heavier workloads, running Linux. Solid, dependable, and still going strong despite its age. Plans to upgrade in the future with a new SSD and keep the current spinner as a backup or some additional storage.</li>
+</ul>
+<h2 id="dev-laptop--thinkpad-t470">Dev Laptop – ThinkPad T470<a hidden class="anchor" aria-hidden="true" href="#dev-laptop--thinkpad-t470">#</a></h2>
+<ul>
+<li><strong>CPU:</strong> Intel Core i5-7300U</li>
+<li><strong>Memory:</strong> 24 GB</li>
+<li><strong>Storage:</strong> 512 GB SSD</li>
+<li><strong>OS:</strong> Manjaro 25 (GNOME), Ubuntu 25.04 Desktop</li>
+<li><strong>Notes:</strong> My go-to for portable development work. Because it&rsquo;s a ThinkPad, it&rsquo;ll probably survive an EMP.</li>
+</ul>
+<h2 id="school-laptop--dell-latitude-5300">School Laptop – Dell Latitude 5300<a hidden class="anchor" aria-hidden="true" href="#school-laptop--dell-latitude-5300">#</a></h2>
+<ul>
+<li><strong>CPU:</strong> Intel Core i5 (8th Gen, can&rsquo;t be bothered to check the actual model)</li>
+<li><strong>Memory:</strong> 16 GB</li>
+<li><strong>Storage:</strong> 256 GB SSD</li>
+<li><strong>OS:</strong> Windows 11</li>
+<li><strong>Notes:</strong> The only machine I currently run Windows on. Strictly for school use, because sometimes you just have to.</li>
+</ul>
+<hr>
+<h1 id="3d-printing-arsenal">3D Printing Arsenal<a hidden class="anchor" aria-hidden="true" href="#3d-printing-arsenal">#</a></h1>
+<h2 id="current-workhorse--prusa-i3-mk3s">Current Workhorse – Prusa i3 MK3S+<a hidden class="anchor" aria-hidden="true" href="#current-workhorse--prusa-i3-mk3s">#</a></h2>
+<ul>
+<li><strong>Notes:</strong> The reliable one. Bought this after the great printer graveyard of 2025 because sometimes you just need something that works without constant faffing about. Prints beautifully, rarely complains, and actually lets me focus on designing things rather than debugging hardware.</li>
+</ul>
+<h2 id="the-fallen">The Fallen<a hidden class="anchor" aria-hidden="true" href="#the-fallen">#</a></h2>
+<ul>
+<li><strong>Ender 3 V3 SE</strong> – Two of them, actually. One was a unit that arrived basically dead, the other I got on warranty was slightly less dead on arrival but never quite played ball. Sold it at a loss because life&rsquo;s too short.</li>
+<li><strong>Cetus MK1</strong> – Hotend fault that was uneconomical to repair. Had its moments, but ultimately not worth the hassle. Probably the machine that convinced me that 3D printing was as good of a hobby as I know it is. A project shifted onto my hands by one of the guys who runs the local makerspace.</li>
+<li><strong>XYZprinting da Vinci 1.0A</strong> – My favourite printer of all time, not because it was particularly good (it absolutely wasn&rsquo;t), but because of all the great memories fixing it. Suffered a sad death eventually, but not before providing countless hours of &ldquo;why won&rsquo;t this bloody thing work&rdquo; followed by the occasional &ldquo;oh, it actually printed something that kinda looked like the .stl.&rdquo; Left it at my old school when I moved onto high school, so it might actually still be around somewhere with all its dodgy modifications and my scrappy custom firmware.</li>
+</ul>
+
+
+</div>
+    </main>
+    
+<footer class="footer">
+        <span>&copy; 2026 <a href="//localhost:1313/">Daniel&#39;s World</a></span> · 
+
+    <span>
+        Powered by
+        <a href="https://gohugo.io/" rel="noopener noreferrer" target="_blank">Hugo</a> &
+        <a href="https://github.com/adityatelange/hugo-PaperMod/" rel="noopener" target="_blank">PaperMod</a>
+    </span>
+</footer>
+<a href="#top" aria-label="go to top" title="Go to Top (Alt + G)" class="top-link" id="top-link" accesskey="g">
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 12 6" fill="currentColor">
+        <path d="M12 6H0l6-6z" />
+    </svg>
+</a>
+
+<script>
+    let menu = document.getElementById('menu');
+    if (menu) {
+        
+        const scrollPosition = localStorage.getItem("menu-scroll-position");
+        if (scrollPosition) {
+            menu.scrollLeft = parseInt(scrollPosition, 10);
+        }
+        
+        menu.onscroll = function () {
+            localStorage.setItem("menu-scroll-position", menu.scrollLeft);
+        }
+    }
+
+    document.querySelectorAll('a[href^="#"]').forEach(anchor => {
+        anchor.addEventListener("click", function (e) {
+            e.preventDefault();
+            var id = this.getAttribute("href").substr(1);
+            if (!window.matchMedia('(prefers-reduced-motion: reduce)').matches) {
+                document.querySelector(`[id='${decodeURIComponent(id)}']`).scrollIntoView({
+                    behavior: "smooth"
+                });
+            } else {
+                document.querySelector(`[id='${decodeURIComponent(id)}']`).scrollIntoView();
+            }
+            if (id === "top") {
+                history.replaceState(null, null, " ");
+            } else {
+                history.pushState(null, null, `#${id}`);
+            }
+        });
+    });
+
+</script>
+<script>
+    var mybutton = document.getElementById("top-link");
+    window.onscroll = function () {
+        if (document.body.scrollTop > 800 || document.documentElement.scrollTop > 800) {
+            mybutton.style.visibility = "visible";
+            mybutton.style.opacity = "1";
+        } else {
+            mybutton.style.visibility = "hidden";
+            mybutton.style.opacity = "0";
+        }
+    };
+
+</script>
+<script>
+    document.getElementById("theme-toggle").addEventListener("click", () => {
+        const html = document.querySelector("html");
+        if (html.dataset.theme === "dark") {
+            html.dataset.theme = 'light';
+            localStorage.setItem("pref-theme", 'light');
+        } else {
+            html.dataset.theme = 'dark';
+            localStorage.setItem("pref-theme", 'dark');
+        }
+    })
+
+</script>
+</body>
+
+</html>
