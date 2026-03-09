@@ -22,27 +22,20 @@ I'm always experimenting, so the list of self-hosted projects may grow (or implo
 
 Alongside the NUC server, I've got a few machines that keep me productive, entertained, and occasionally frustrated.
 
-## Main PC
-- **CPU:** Intel Core i7-4790 (4 cores, 8 threads) @ 4.00 GHz
-- **GPU:** NVIDIA Quadro K620 (Discrete)
-- **Memory:** 16 GB DDR3
-- **Storage:** 465 GB HDD
+## Main Workhorse Laptop – ASUS ROG Zephyrus G14 (2021)
+- **CPU:** AMD Ryzen 7 5800HS
+- **GPU:** NVIDIA RTX 3060
+- **Memory:** 24 GB (16 GB soldered + 8 GB)
+- **Storage:** 512 GB NVMe
+- **OS:** Windows 11 (plus countless VM's)
+- **Notes:** My go-to for everything serious — Fusion 360, Excel, development, you name it. Also doubles as my school laptop, because apparently one machine can wear many hats. The ThinkPad's replacement after that met its end on a physics classroom floor.
+
+## Writing & Browsing – HP EliteDesk Mini PC
+- **CPU:** Intel Core i5 (7th Gen)
+- **RAM:** 16 GB
+- **Storage:** 512 GB SATA SSD 
 - **OS:** Manjaro 25 (GNOME)
-- **Notes:** My daily driver for heavier workloads, running Linux. Solid, dependable, and still going strong despite its age. Plans to upgrade in the future with a new SSD and keep the current spinner as a backup or some additional storage.
-
-## Dev Laptop – ThinkPad T470
-- **CPU:** Intel Core i5-7300U
-- **Memory:** 24 GB
-- **Storage:** 512 GB SSD
-- **OS:** Manjaro 25 (GNOME), Ubuntu 25.04 Desktop
-- **Notes:** My go-to for portable development work. Because it's a ThinkPad, it'll probably survive an EMP.
-
-## School Laptop – Dell Latitude 5300
-- **CPU:** Intel Core i5 (8th Gen, can't be bothered to check the actual model)
-- **Memory:** 16 GB
-- **Storage:** 256 GB SSD
-- **OS:** Windows 11
-- **Notes:** The only machine I currently run Windows on. Strictly for school use, because sometimes you just have to.
+- **Notes:** Replaced the old i7 tower. Compact, quiet, and more than capable for writing and internet. Manjaro remains the distro of choice — why fix what isn't broken?
 
 ---
 

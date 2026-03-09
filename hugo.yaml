@@ -10,10 +10,12 @@ uglyURLs: false
 
 
 params:
+  author: "Daniel Liddle"
   homeInfoParams:
     Title: "Hi, I'm Daniel"
     Content: >
-     Welcome to my corner of the internet. This is my thought dump for anything that comes to my mind or catches my attention. Check out the other pages to see what I'm up to. 
+      Welcome to my corner of the internet. I've had this site for a while but I'm actually updating it 
+      now, so stick around. Check out the other pages to see what I've been up to.. 
   socialIcons:
     - name: "github"
       url: "https://github.com/zl2dtl"
@@ -37,7 +39,7 @@ menu:
       weight: 1
 
     - identifier: writing
-      name: Writings
+      name: Writing
       url: /writing/
       weight: 2
 
