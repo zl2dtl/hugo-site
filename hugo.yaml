@@ -10,6 +10,8 @@ uglyURLs: false
 
 
 params:
+  assets:
+    disableFingerprinting: true
   author: "Daniel Liddle"
   homeInfoParams:
     Title: "Hi, I'm Daniel"
