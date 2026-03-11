@@ -22,7 +22,7 @@ I'm always experimenting, so the list of self-hosted projects may grow (or implo
 
 Alongside the NUC server, I've got a few machines that keep me productive, entertained, and occasionally frustrated.
 
-## Main Workhorse Laptop – ASUS ROG Zephyrus G14 (2021)
+## Main "Workhorse" Laptop – ASUS ROG Zephyrus G14 (2021)
 - **CPU:** AMD Ryzen 7 5800HS
 - **GPU:** NVIDIA RTX 3060
 - **Memory:** 24 GB (16 GB soldered + 8 GB)

@@ -7,7 +7,7 @@ url: /3dprinting/resources/
 
 ## 3D Printing Resources
 
-A running list of the most useful stuff I’ve found while trying to get prints to not look like cursed spaghetti. Whether you're calibrating, troubleshooting, or just figuring out what the hell retraction actually does — these are worth checking out.
+A running list of the most useful stuff I’ve found while trying to get prints to not look like cursed spaghetti. Whether you're calibrating, troubleshooting, or just figuring out what the hell retraction actually does, these are worth checking out.
 
 ---
 
