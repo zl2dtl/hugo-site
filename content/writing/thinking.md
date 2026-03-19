@@ -1,7 +1,7 @@
 ---
 title: "Last Sunday"
 layout: page
-date: 2026-03-20
+date: 2026-03-19
 draft: false
 ---
 This one is late. Very late. But it's worth writing down before it gets any further away.
