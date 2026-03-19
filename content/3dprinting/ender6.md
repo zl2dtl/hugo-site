@@ -18,3 +18,5 @@ I brought in my own BL Touch along with a cable, which solved the probe problem 
 The plan once the cables are sorted is to run some Cat5e ethernet cable or similar between the BL Touch's connector at the extruder head and the motherboard, bypassing the daughter board entirely and giving the probe a clean 5v feed directly. That should be the end of the BL Touch saga, fingers crossed.
 
 The cables have arrived. I'm back at Zero Waste on Saturday. More then.
+
+(nearly two weeks later update- I had no time to work on this last week, and someone else may have the correct cable already going spare, so that's that)
