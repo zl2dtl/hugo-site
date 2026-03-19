@@ -4,7 +4,6 @@ layout: page
 date: 2026-03-20
 draft: false
 ---
-
 This one is late. Very late. But it's worth writing down before it gets any further away.
 
 Last Sunday I went out with her. Coffee shop, then wandering around the shops, then back to the coffee shop because apparently once wasn't enough and I had absolutely no complaints about that. It was a good day. A genuinely, simply good day, which feels worth saying out loud because those aren't always as common as they should be.
