@@ -22,27 +22,31 @@ I'm always experimenting, so the list of self-hosted projects may grow (or implo
 
 Alongside the NUC server, I've got a few machines that keep me productive, entertained, and occasionally frustrated.
 
-## Main "Workhorse" Laptop – ASUS ROG Zephyrus G14 (2021)
-- **CPU:** AMD Ryzen 7 5800HS
-- **GPU:** NVIDIA RTX 3060
-- **Memory:** 24 GB (16 GB soldered + 8 GB)
-- **Storage:** 512 GB NVMe
-- **OS:** Windows 11 (plus countless VM's)
-- **Notes:** My go-to for everything serious — Fusion 360, Excel, development, you name it. Also doubles as my school laptop, because apparently one machine can wear many hats. The ThinkPad's replacement after that met its end on a physics classroom floor.
+## Laptop – Apple MacBook Pro (2014)
+- **CPU:** "2.5GHz quad-core Intel Core i7 processor" (4th Generation 'Haswell' CPUs)
+- **GPU:** NVIDIA GeForce GT 750M
+- **Memory:** 16 GB soldered DDR3
+- **Storage:** 256 GB NVMe
+- **OS:** MacOS 13 (OpenCore Legacy Patcher got it higher than Big Sur)
+- **Notes:** It really is just a laptop for school, enough power for web browsing and Office with the freedom to connect to my PC when I need. 
 
-## Writing & Browsing – HP EliteDesk Mini PC
-- **CPU:** Intel Core i5 (7th Gen)
-- **RAM:** 16 GB
-- **Storage:** 512 GB SATA SSD 
-- **OS:** Manjaro 25 (GNOME)
-- **Notes:** Replaced the old i7 tower. Compact, quiet, and more than capable for writing and internet. Manjaro remains the distro of choice — why fix what isn't broken?
+## Writing, Gaming, Development – the big computer
+- **CPU:** Intel Core i5-9600K
+- **RAM:** 32 GB 3200MT/s DDR4
+- **GPU:** Nvidia GeForce RTX 3070 8GB
+- **Storage:** 512 GB NVMe, 2x 512GB SATA SSD 
+- **OS:** Windows 11
+- **Notes:** It's known as 'the big computer' because it's in a massive Cooler Master ATX case, quite aptly named if I do say so myself. It's got relatively tasteful lighting, usually staying a solid blue or dark purple. Best $650 ever spent. 
 
 ---
 
-# 3D Printing Arsenal
+# 3D Printing
 
 ## Current Workhorse – Prusa i3 MK3S+
 - **Notes:** The reliable one. Bought this after the great printer graveyard of 2025 because sometimes you just need something that works without constant faffing about. Prints beautifully, rarely complains, and actually lets me focus on designing things rather than debugging hardware.
+
+## Project?!? – Wanhao Duplicator i3
+- **Notes:** Essentially, the Prusa wasn't exciting enough because it worked too well. I picked this one up and was going to use some parts I had around from another project printer and get Klipper running on this 15 year old printer.
 
 ## The Fallen
 - **Ender 3 V3 SE** – Two of them, actually. One was a unit that arrived basically dead, the other I got on warranty was slightly less dead on arrival but never quite played ball. Sold it at a loss because life's too short.
