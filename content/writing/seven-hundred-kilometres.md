@@ -5,8 +5,6 @@ date: 2026-06-02
 draft: false
 ---
 
-# Seven Hundred Kilometres (or there abouts)
-
 I got back from Auckland yesterday.
 
 Six hundred and fifty-eight kilometres away from Wellington, if we're being precise, which turned out to be just far enough for my brain to start behaving differently. Or perhaps it was the eight and a half hours spent getting there.
