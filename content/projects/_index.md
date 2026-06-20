@@ -22,20 +22,20 @@ I'm always experimenting, so the list of self-hosted projects may grow (or implo
 
 Alongside the NUC server, I've got a few machines that keep me productive, entertained, and occasionally frustrated.
 
-## Laptop – Apple MacBook Pro (2014)
-- **CPU:** "2.5GHz quad-core Intel Core i7 processor" (4th Generation 'Haswell' CPUs)
-- **GPU:** NVIDIA GeForce GT 750M
-- **Memory:** 16 GB soldered DDR3
-- **Storage:** 256 GB NVMe
-- **OS:** MacOS 13 (OpenCore Legacy Patcher got it higher than Big Sur)
-- **Notes:** It really is just a laptop for school, enough power for web browsing and Office with the freedom to connect to my PC when I need. 
+## Laptop – Lenovo ThinkPad X1 Nano Gen 1
+- **CPU:** Intel Core i7-1160G7 (11th Generation 'Tiger Lake' CPU)
+- **GPU:** Intel Iris Xe Graphics
+- **Memory:** 16 GB soldered LPDDR4x-4267
+- **Storage:** 512 GB NVMe SSD
+- **OS:** Windows 11 Pro
+- **Notes:** Powerful enough for most work locally and feels exceptionally responsive when connected to my home PC over Parsec. The ultra-light weight makes it easy to carry everywhere, while still delivering the build quality and keyboard ThinkPads are known for. It's often described as the MacBook of the ThinkPad lineup.
 
 ## Writing, Gaming, Development – the big computer
 - **CPU:** Intel Core i5-9600K
 - **RAM:** 32 GB 3200MT/s DDR4
 - **GPU:** Nvidia GeForce RTX 3070 8GB
 - **Storage:** 512 GB NVMe, 2x 512GB SATA SSD 
-- **OS:** Windows 11
+- **OS:** Windows 11, Fedora Workstation 44
 - **Notes:** It's known as 'the big computer' because it's in a massive Cooler Master ATX case, quite aptly named if I do say so myself. It's got relatively tasteful lighting, usually staying a solid blue or dark purple. Best $650 ever spent. 
 
 ---
