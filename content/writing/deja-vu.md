@@ -1,10 +1,9 @@
 ---
-
 title: "I've Seen This One Before"
 layout: page
-date: 2026-06-21
+date: 2026-06-20
 draft: false
-------------
+---
 
 It's been a fairly boring week, which is unfortunate because those are significantly harder to write about.
 

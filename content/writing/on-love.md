@@ -1,9 +1,9 @@
-    ---
-    title: "On Love, Actually"
-    layout: page
-    date: 2026-03-10
-    draft: false
-    ---
+---
+title: "Overdue"
+layout: page
+date: 2026-05-13
+draft: false
+---
 
     This was supposed to be a tech blog. Somewhere along the line it became something else, and I think we both know whose fault that is. I write these because she makes me, and she somehow enjoys reading my reflections on her, written about her, largely for her, in what I can only describe as an awkward third person that we've both just agreed to pretend is normal. So here we are again.
 
