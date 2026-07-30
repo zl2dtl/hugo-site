@@ -27,17 +27,15 @@ Alongside the NUC server, I've got a few machines that keep me productive, enter
 - **GPU:** Intel Iris Xe Graphics
 - **Memory:** 16 GB soldered LPDDR4x-4267
 - **Storage:** 512 GB NVMe SSD
-- **OS:** Windows 11 Pro
-- **Notes:** Powerful enough for most work locally and feels exceptionally responsive when connected to my home PC over Parsec. The ultra-light weight makes it easy to carry everywhere, while still delivering the build quality and keyboard ThinkPads are known for. It's often described as the MacBook of the ThinkPad lineup.
+- **OS:** Windows 11 Pro, Fedora Workstation 44 (GNOME)
+- **Notes:** Powerful enough for most work locally and feels exceptionally responsive when connected to my cloud server over SSH or Proxmox. The ultra-light weight makes it easy to carry everywhere, while still delivering the build quality and keyboard ThinkPads are known for. This ThinkPad is often described as the MacBook Air of the ThinkPad lineup.
 
-## Writing, Gaming, Development – the big computer
-- **CPU:** Intel Core i5-9600K
-- **RAM:** 32 GB 3200MT/s DDR4
-- **GPU:** Nvidia GeForce RTX 3070 8GB
-- **Storage:** 512 GB NVMe, 2x 512GB SATA SSD 
-- **OS:** Windows 11, Fedora Workstation 44
-- **Notes:** It's known as 'the big computer' because it's in a massive Cooler Master ATX case, quite aptly named if I do say so myself. It's got relatively tasteful lighting, usually staying a solid blue or dark purple. Best $650 ever spent. 
-
+## the other laptop – MacBook Pro 2023 (M2 Pro) 
+- **CPU:** 
+- **Unified Memory:** 16 GB 6,400 MT/s LPDDR5 (Not RAM, because Apple's different and uses Unified Memory for VRAM and RAM)
+- **Storage:** 512 GB SSD
+- **OS:** MacOS Tahoe 26.5.2
+- **Notes:** It started its life in the scrap bin, as many of my best machines do. After a few hours of cleaning and playing 'swap jockey', it kicked up to life and has been an absolute unit so far. This MacBook Pro is often described as the ThinkPad of the MacBook lineup.
 ---
 
 # 3D Printing
