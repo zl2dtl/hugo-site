@@ -31,11 +31,23 @@ Alongside the NUC server, I've got a few machines that keep me productive, enter
 - **Notes:** Powerful enough for most work locally and feels exceptionally responsive when connected to my cloud server over SSH or Proxmox. The ultra-light weight makes it easy to carry everywhere, while still delivering the build quality and keyboard ThinkPads are known for. This ThinkPad is often described as the MacBook Air of the ThinkPad lineup.
 
 ## the other laptop – MacBook Pro 2023 (M2 Pro) 
-- **CPU:** 
+- **CPU:** Apple M2 Pro (10 Core)
 - **Unified Memory:** 16 GB 6,400 MT/s LPDDR5 (Not RAM, because Apple's different and uses Unified Memory for VRAM and RAM)
 - **Storage:** 512 GB SSD
 - **OS:** MacOS Tahoe 26.5.2
 - **Notes:** It started its life in the scrap bin, as many of my best machines do. After a few hours of cleaning and playing 'swap jockey', it kicked up to life and has been an absolute unit so far. This MacBook Pro is often described as the ThinkPad of the MacBook lineup.
+---
+
+## the new computer still to be formed - Scrappy AM4 Desktop "Polaris"
+- A shiny white ASRock X370 Taichi motherboard in a shiny white case (with a black air cooler and psu... ) hence named after the shiny bright North Star
+** to be completed when i find an am4 backplate for this motherboard **
+- 32GB of slow as hell ddr4 
+- 512gb nvme
+- Ryzen 5 3600 (thanks to my mate august you're a legend)
+- gtx1060 6gb gpu... 
+- cooler master air cooler and cheapest case i could find on pbtech
+- dry thermal paste (reconstituted with isopropyl alcohol before application)
+- budget: under $150 worth of new parts
 ---
 
 # 3D Printing
@@ -44,7 +56,7 @@ Alongside the NUC server, I've got a few machines that keep me productive, enter
 - **Notes:** The reliable one. Bought this after the great printer graveyard of 2025 because sometimes you just need something that works without constant faffing about. Prints beautifully, rarely complains, and actually lets me focus on designing things rather than debugging hardware.
 
 ## Project?!? – Wanhao Duplicator i3
-- **Notes:** Essentially, the Prusa wasn't exciting enough because it worked too well. I picked this one up and was going to use some parts I had around from another project printer and get Klipper running on this 15 year old printer.
+- **Notes:** Essentially, the Prusa wasn't exciting enough because it worked too well. I picked this one up and was going to use some parts I had around from another project printer and get Klipper running on this 15 year old printer. Edit 30/8/26: it's still a work in progress because I honestly forgot. 
 
 ## The Fallen
 - **Ender 3 V3 SE** – Two of them, actually. One was a unit that arrived basically dead, the other I got on warranty was slightly less dead on arrival but never quite played ball. Sold it at a loss because life's too short.
