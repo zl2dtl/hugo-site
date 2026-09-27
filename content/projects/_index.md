@@ -38,14 +38,14 @@ Alongside the NUC server, I've got a few machines that keep me productive, enter
 - **Notes:** It started its life in the scrap bin, as many of my best machines do. After a few hours of cleaning and playing 'swap jockey', it kicked up to life and has been an absolute unit so far. This MacBook Pro is often described as the ThinkPad of the MacBook lineup.
 ---
 
-## the new computer still to be formed - Scrappy AM4 Desktop "Polaris"
+## the new computer now kinda formed - Scrappy AM4 Desktop "Polaris"
 - A shiny white ASRock X370 Taichi motherboard in a shiny white case (with a black air cooler and psu... ) hence named after the shiny bright North Star
-** to be completed when i find an am4 backplate for this motherboard **
+** to be completed when i find an am4 backplate for this motherboard (edit 27/9 i 3d printed a backplate and using a stock cooler it's fine, also no case fans currently yet still games fine...)**
 - 32GB of slow as hell ddr4 
-- 512gb nvme
+- 1TB nvme
 - Ryzen 5 3600 (thanks to my mate august you're a legend)
 - gtx1060 6gb gpu... 
-- cooler master air cooler and cheapest case i could find on pbtech
+- cooler master air cooler (not yet it;s too heavy for my plastic backplate) and cheapest case i could find on pbtech
 - dry thermal paste (reconstituted with isopropyl alcohol before application)
 - budget: under $150 worth of new parts
 ---
