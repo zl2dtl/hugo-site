@@ -32,7 +32,7 @@ I feel like I truly don't deserve her, yet I also feel like I need her. At the s
 
 Maybe that's the problem. I'm trying to make sense of something I don't actually have enough information to understand.
 
-So what's the right way to love someone you're not dating?
+So what's the right way to love someone?
 
 If I said it every time I thought it, I feel like I would be perceived so fundamentally differently that I wouldn't be myself anymore.
 
