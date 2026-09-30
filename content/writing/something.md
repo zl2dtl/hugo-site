@@ -32,13 +32,6 @@ I feel like I truly don't deserve her, yet I also feel like I need her. At the s
 
 Maybe that's the problem. I'm trying to make sense of something I don't actually have enough information to understand.
 
-So what's the right way to love someone?
-
-If I said it every time I thought it, I feel like I would be perceived so fundamentally differently that I wouldn't be myself anymore.
-
-And that leads me back to the reminiscing.
-
-I remember two years ago. It felt different. So different. But not necessarily in a good way.
 
 I think the one point of comparison in my life has constantly been my past self. I've made so many bad decisions. Out of everything comes a lesson, at least, but every lesson has a cost.
 
