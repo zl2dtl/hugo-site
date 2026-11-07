@@ -1,5 +1,5 @@
 ---
-title: "More Thaan I Can Explain"
+title: "More Than I Can Explain"
 layout: page
 date: 2026-11-08
 draft: false
